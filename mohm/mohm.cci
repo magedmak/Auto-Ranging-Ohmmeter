@@ -1,0 +1,9 @@
+VERSION:3 SOURCE_TIMESTAMP:54B5BA90
+NODE:I LEVEL:0 LINE:24 "C:\cvavreval\inc\mega32.h"
+NODE:I LEVEL:0 LINE:26 "C:\cvavreval\inc\delay.h"
+NODE:I LEVEL:0 LINE:27 "C:\cvavreval\inc\stdio.h"
+NODE:I LEVEL:0 LINE:30 "C:\cvavreval\inc\alcd.h"
+NODE:M LEVEL:0 LINE:33 "ADC_VREF_TYPE"
+NODE:F LEVEL:0 LINE:36 "read_adc(unsigned char adc_input)"
+NODE:C LEVEL:0 LINE:50 "i -> FLASH"
+NODE:F LEVEL:0 LINE:52 "main(void)"
